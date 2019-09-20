@@ -1,0 +1,2 @@
+# metric-data-dash
+Intuitive Metrics Dashboard &amp; Data Manager for creating and maintaining reports that present visual and statistical analysis of targets or goals, tracking production output, total pacing predictions, historical comparisons, accounts summary, creating custom filters/views, hosting collaborative discussion boards and idea panels, integration with Google Sheets, etc... This is my first attempt for a Full Stack Web Application that will be the main showcased project in my developer portfolio before I finally start applying for jobs and quit sales!
